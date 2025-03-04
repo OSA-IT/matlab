@@ -1,13 +1,14 @@
 body{
- background-color: aqua;
- background-image: url(13.jpg);
- background-size: cover;
- background-position: center;
- background-size: 1px;
+ background-color: gainsboro;
+ background-image: url(darc.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ 
+ 
 } 
 h1{
     font-size: xx-large; font-family: serif;
     font-style: italic;
-    color: burlywood;
+    color: #090909;
 
 }
